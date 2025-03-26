@@ -140,7 +140,7 @@ format:
 
 <span style="display: block; text-align: right; font-size: 0.6em; color: #777777;">
   Presentation created with quarto and hosted on github  
-  [https://cracroule.github.io/raoul_pillard_kiwibank_presentation](https://cracroule.github.io/raoul_pillard_kiwibank_presentation)
+  [https://github.com/Cracroule/raoul_pillard_kiwibank_presentation](https://github.com/Cracroule/raoul_pillard_kiwibank_presentation)
 </span>
 
 <!-- <span style="display: block; text-align: right;">:</span> -->
