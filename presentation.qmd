@@ -128,9 +128,24 @@ format:
 
 ::::
 
+<br>
+
 ::: {.fragment}
-**Thank you!** 
+<span style="display: block; text-align: right;">**Thank you!** </span>
 ::::
+
+<br>
+
+
+<span style="display: block; text-align: right; font-size: 0.6em; color: #777777;">
+  Presentation created with quarto and hosted on github  
+  [https://cracroule.github.io/raoul_pillard_kiwibank_presentation](https://cracroule.github.io/raoul_pillard_kiwibank_presentation)
+</span>
+
+<!-- <span style="display: block; text-align: right;">:</span> -->
+<!-- <span style="display: block; text-align: right;"></span> -->
+
+
 
 
 ---
