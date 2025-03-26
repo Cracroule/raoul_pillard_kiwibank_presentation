@@ -22,6 +22,7 @@ format:
 
 ## About me {.smaller}
 
+<br>
   
 - **Experienced Data Professional**  
   10+ years in analytics, data science, and quantitative development
@@ -94,7 +95,7 @@ format:
 
 **Immediate Focus**  
 <span style="color: #777777;">Apply my analytical skills to solve meaningful problems  
-  ... *at Kiwibank to improve customer outcomes ?*</span>  
+  ... *at Kiwibank to improve customer outcomes?*</span>  
 
 **Working Style**  
 <span style="color: #777777;">Thrive in collaborative environments</span>  
