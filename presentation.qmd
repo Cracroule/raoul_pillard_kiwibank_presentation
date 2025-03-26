@@ -1,0 +1,159 @@
+---
+title: "Raoul Pillard"
+subtitle: "Senior Analytics & Insights Analyst"
+format:
+  revealjs:
+    logo: "images/Kiwibank_Logo.svg"
+    logo-position: "right top"
+    logo-style: "height: 50px; width: auto; margin: 20px;"
+    slide-number: true
+    footer: "<i class='fas fa-envelope'></i> raoul.pillard@gmail.com"
+    transition: fade
+    css: |
+      .reveal .slide-logo {
+        height: 50px !important;
+        width: auto !important;
+        max-width: unset !important;
+        max-height: unset !important;
+      }
+    width: 1200
+    height: 675
+---
+
+## About me {.smaller}
+
+  
+- **Experienced Data Professional**  
+  10+ years in analytics, data science, and quantitative development
+  
+
+- **Strong Technical Expertise**  
+  Python | R | SQL | Git | Tableau | Snowflake | AWS | Azure
+  
+
+- **Impact Through Data**  
+  Transform data into practical insights
+  
+
+- **Passion**  
+  Solving complex problems through data-driven insights
+
+::: {.fragment}
+🎲 board game enthusiast | ⚽  Enjoy playing social football  
+🤿 PADI-certified scuba diver | 🎤 Recently joined Toastmasters group  
+:::
+
+---
+
+## Career Journey {.smaller}
+
+::: {.panel-tabset}
+### Commerce Commission  
+**Senior Analyst**  
+<span style="color: #777777;">2023 - Present</span>  
+
+- Built econometric models to understand cost drivers and performance of regulated businesses 
+- Developed and maintained regulatory performance dashboards  
+- Upskilled team members in analytical toolkit and methods  
+
+### Kiwi Wealth  
+**Quantitative Developer**  
+<span style="color: #777777;">2022 - 2023</span>  
+  
+- Automated data processing  
+- Implemented optimisation constraints reporting  
+- Research - Implementation of trading signal and use in investment strategies  
+
+### Montoux  
+**Senior Data Scientist**  
+<span style="color: #777777;">2018 - 2022</span>  
+  
+- Developed price sensitivity methodology  
+- Repricing optimisation  
+- Created forecasting models  
+
+### DeriveXperts  
+**Pricing Engineer & Quantitative Developer**  
+<span style="color: #777777;">2015 - 2018</span>  
+  
+- Implemented high-volume pricing library for FX products 
+- Maintained and improved production system for the valuation of financial products
+
+### Murex  
+**Front-Office Consultant**    
+<span style="color: #777777;">2013 - 2015</span>  
+  
+- Specialised in interest rate derivatives  
+- Analysed reported issues, wrote specifications for developments and fixes  
+- Delivered client training and support  
+:::
+
+---
+
+## Career Goals & Aspirations {.smaller}
+
+**Immediate Focus**  
+<span style="color: #777777;">Apply my analytical skills to solve meaningful problems  
+  ... *at Kiwibank to improve customer outcomes ?*</span>  
+
+**Working Style**  
+<span style="color: #777777;">Thrive in collaborative environments</span>  
+- Build solutions end-to-end (from analysis to implementation)  
+- Share knowledge across teams  
+- Work autonomously when needed  
+
+**Impact Vision**  
+<span style="color: #777777;">Create tools and insights</span>  
+- Remove manual bottlenecks  
+- Help teams make confident decisions  
+- Scale beyond individual projects  
+
+---
+
+
+<br><br><br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/Kiwibank_Logo.svg){width=130px}  
+:::
+  
+::: {.column width="50%"}  
+📧 raoul.pillard@gmail.com  
+📞 +64 21 063 9717  
+🔗 [linkedin.com/in/RaoulPillard](https://linkedin.com/in/RaoulPillard)  
+
+:::
+
+::::
+
+::: {.fragment}
+**Thank you!** 
+::::
+
+
+---
+
+## Project Showcase {.smaller}
+
+
+::::: {.columns}
+
+::: {.fragment}
+:::: {.column}
+**📊 Price to Sales Sensitivity**  
+
+Slides covering the method I developed to assess the price sensitivity for insurers in the context of repricing events, to assess and quantify impact on sales
+::::
+:::
+
+::: {.fragment}
+:::: {.column}
+**💡 Electricity Distribution Businesses **  
+
+Set of Quarto dashboards to analyse cost drivers for Electricity Distribution Businesses and ultimately inform on their performance and productivity  
+::::
+::: 
+
+:::::
